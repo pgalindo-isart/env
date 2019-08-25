@@ -1,0 +1,4 @@
+ThemeFile=solarized-dark
+CursorType=block
+FontHeight=13
+Term=xterm-256color
