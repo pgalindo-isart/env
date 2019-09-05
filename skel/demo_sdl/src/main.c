@@ -48,6 +48,7 @@ int main(int argc, char* argv[])
 
     // ====================================
     // Main loop
+    context.game    = game;
     context.running = true;
     while (context.running)
     {
