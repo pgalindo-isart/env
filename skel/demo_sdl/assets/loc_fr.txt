@@ -1,0 +1,3 @@
+hello	Bonjour ISART !
+test1	Texte français.
+score	Score
