@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 
     bool running = true;
     while (running)
-	{
+    {
         SDL_Event event;
         while (SDL_PollEvent(&event))
         {
