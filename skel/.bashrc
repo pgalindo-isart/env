@@ -2,6 +2,7 @@ export VISUAL=vim
 export EDITOR=$VISUAL
 export SHELL=bash
 export CC=x86_64-w64-mingw32-gcc
+export CXX=x86_64-w64-mingw32-g++
 
 # Completion
 if [ -f /usr/share/bash-completion/bash_completion ]; then
